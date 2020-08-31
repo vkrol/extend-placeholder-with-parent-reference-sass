@@ -1,0 +1,12 @@
+{
+  "name": "extend-placeholder-with-parent-reference-sass",
+  "private": "false",
+  "scripts": {
+    "compile-via-node-sass": "node-sass index.scss",
+    "compile-via-dart-sass": "sass index.scss"
+  },
+  "dependencies": {
+    "node-sass": "4.14.1",
+    "sass": "1.26.10"
+  }
+}
